@@ -17,7 +17,7 @@ My work is hands-on: defining strategy, working closely with engineering, and sh
 * Data-driven decisions: using SQL and analytics to guide product direction
 * Techstack: `.js`, `.sql`, `.py` 
 
-### About me
+## About me
 
 I started in accounting and systems, which gave me a deep understanding of how business processes actually work.
 Since then, I’ve built products in fintech and SaaS, and now work at Thomson Reuters on:
@@ -28,7 +28,8 @@ Since then, I’ve built products in fintech and SaaS, and now work at Thomson R
 
 🎸 If i am not using my product management skills, I am listening to Megadeth
 
-### GitHub Stats
+
+## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alfonsomp18)](https://git.io/streak-stats)
 
