@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-alfonso_mtz_18-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:alfonso_mtz_18@outlook.es)](mailto:alfonso_mtz_18@outlook.es)
 [![GitHub followers](https://img.shields.io/github/followers/alfonsomp18?label=Follow&style=social)](https://github.com/alfonsomp18) 
 
-I build products that turn complex problems into real-world solutions.
+I build products that turn complex tax problems into real-world solutions.
 
 My work is hands-on: defining strategy, working closely with engineering, and shipping products that actually solve problems—especially in tax, fintech, and enterprise systems.
 
